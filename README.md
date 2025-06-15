@@ -33,6 +33,7 @@ Or run locally using browser.
 ---
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3
